@@ -1,0 +1,21 @@
+{
+    "name": "fbsouzas/chain-of-resposibility-sales",
+    "description": "Study chain of resposibility pattern projet",
+    "authors": [
+        {
+            "name": "Fábio Souza",
+            "email": "fbsouza.me@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fbsouzas\\DesignPattern\\ChainOfResponsibility\\Sales\\": "src/",
+            "Fbsouzas\\DesignPattern\\ChainOfResponsibility\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5",
+        "phpunit/phpunit": "^9"
+    }
+}

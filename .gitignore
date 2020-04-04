@@ -1,3 +1,7 @@
-design-patterns.code-workspace
 vendor/
 docker/
+
+
+Strategy/Investments/strategy-investments.code-workspace
+Strategy/Taxes/strategy-taxes.code-workspace
+ChainOfResposibility/Sales/chain-of-resposibility-sales.code-workspace
